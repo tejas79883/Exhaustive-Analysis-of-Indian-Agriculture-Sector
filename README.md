@@ -15,3 +15,4 @@ We aim to create interactive visualizations that reveal trends, patterns, and di
 
 
 ## Live Dashboard : 
+![Dashboard ](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
